@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">rpiLightControl</string>
+    <string name="rpi_light_control">Rpi Light Control</string>
+    <string name="flash">Flash</string>
+</resources>
